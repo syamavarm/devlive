@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1lcDQlcdFv3hrU2lYu3xpWe6jMbXa9mFw
+  /:
+    url: https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/syamavarm/devlive/main
+    type: "markup"
+    suffix: ".html"

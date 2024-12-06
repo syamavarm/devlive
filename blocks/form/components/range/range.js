@@ -1,3 +1,3 @@
 
-  export default async function decorate(fieldDiv, fieldJson) {
+  export default async function decorate() {
   }
